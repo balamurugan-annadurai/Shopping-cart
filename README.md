@@ -1,6 +1,6 @@
-# 🛒 Shopping Website
+# 🛒 Shopping cart
 
-Welcome to the Shopping Website! This repository features a responsive web application built with React.js and powered by Redux and Redux Toolkit. It is designed to deliver a seamless shopping experience where users can effortlessly manage their cart. You can add and remove products, view and edit the cart contents, and receive real-time updates on the total price and product count. The application also tracks stock availability.
+Welcome to the Shopping cart! This repository features a responsive web application built with React.js and powered by Redux and Redux Toolkit. It is designed to deliver a seamless shopping experience where users can effortlessly manage their cart. You can add and remove products, view and edit the cart contents, and receive real-time updates on the total price and product count. The application also tracks stock availability.
 
 ## ✨ Features
 
